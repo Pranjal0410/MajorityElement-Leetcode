@@ -1,0 +1,2 @@
+# MajorityElement-Leetcode
+Python
